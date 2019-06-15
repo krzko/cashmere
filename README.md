@@ -98,11 +98,11 @@ Cashmere needs the TradingView alerts to be in a specific format for it to place
 
 **Fields**
 
-* CASHMERE - Leae as is
-* USER - Your GUID e.g. 33DBB350-0BB8-2EA5-8902-E17EA59FAD51
-* STRATEGYNAME - A description of your stretgy for the bot's UI e.g. HA-ICHIMOKU-BREAKOUT-4H
-* EXCHANGE - The exchange to place the order on. Supported values are Binance, BitMEX
-* ACTION - Order action to perform. Supported values are Enter-Long, Close-Long, Enter-Short, Close-Short
-* ORDERTYPE - The type of order for the action. Market is the only supported type for now
-* PAIR - The asset pair you will be placing an order on e.g BTC-USDT
-* AMOUNT - The amount of an asset to buy/sell. Supported values are numbers. Also ALL, when closing an order.
+* **CASHMERE** - Do not change.
+* **USER** - Your GUID. e.g. **33DBB350-0BB8-2EA5-8902-E17EA59FAD51**
+* **STRATEGYNAME** - A description of your stretgy for the bot's UI. e.g. **HA-ICHIMOKU-BREAKOUT-4H**
+* **EXCHANGE** - The exchange to place the order on. Supported values are **Binance**, **BitMEX**.
+* **ACTION** - Order action to perform. Supported values are **Enter-Long**, **Close-Long**, **Enter-Short**, **Close-Short**.
+* **ORDERTYPE** - The type of order for the action. **Market** is the only supported type for now.
+* **PAIR** - The asset pair you will be placing an order. on e.g **BTC-USDT**
+* **AMOUNT** - The amount of an asset to buy/sell. Supported values are **numbers**. Also **all**, when closing an order.
