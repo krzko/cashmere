@@ -1,6 +1,12 @@
 🤖 Cashmere Bot
 ===============
 
+## Status
+
+The bot is in active development. The below details will be finalised once the bot is released. The source will _not_ be open sourced, but instead binaries will be available from the **Releases** page or from the below package managers as outlined in the **Install** section.
+
+Current Status: 0.0.3-alpha, most features implemented, finalising for release.
+
 ## Description
 
 Cashmere is a crypto trading bot that uses [TradingView](https://www.tradingview.com) alerts to process orders. Using your TradingView strategies you can send alerts via email, Cashmere will then parse your email message and place an order on yout behalf.
